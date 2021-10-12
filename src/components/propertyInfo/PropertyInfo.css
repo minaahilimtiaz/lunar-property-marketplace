@@ -1,0 +1,17 @@
+.App {
+  margin: 40px;
+}
+
+h1,
+h2 {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.PropertyInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}

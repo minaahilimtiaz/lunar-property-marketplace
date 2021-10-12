@@ -1,0 +1,12 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+.HorizontalContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
